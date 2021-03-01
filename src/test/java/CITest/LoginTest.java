@@ -17,7 +17,7 @@ public class LoginTest {
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
 		//Reporter.log("initial set up done !!!!!");
-		System.out.println("Execution Started !!!!");
+		System.out.println("initial set up done !!!!");
 	}
 
 	@Test
